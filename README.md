@@ -1,6 +1,14 @@
-<h1 align="center">Hi 👋, I'm Muhammed Ajmal Rose</h1>
-<h3 align="center">A passionate flutter Developer.</h3>
-‹img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<table align="center">
+  <tr>
+    <td>
+      <h1>Hi 👋, I'm Muhammed Ajmal Rose</h1>
+      <h3>A passionate Flutter Developer</h3>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/pRn6wYY6tgEAAAAM/zoro.gif" alt="Coding Gif" width="250" height="250"/>
+    </td>
+  </tr>
+</table>
 
 - 🌱 I’m currently learning **Flutter, python**
 
