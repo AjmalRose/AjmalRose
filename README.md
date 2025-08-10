@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/ajmal-rose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajmal-rose" height="30" width="40" /></a>
 <a href="https://instagram.com/___.ajmal_aju1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___.ajmal_aju1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ajmal aju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajmal aju" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ajmal-rose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajmal-rose" height="30" width="40" /></a>
 </p>
 
